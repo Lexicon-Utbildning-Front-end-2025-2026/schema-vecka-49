@@ -20,7 +20,9 @@
 * [(Pluralsight) Clean Code and Accessibility](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
 
 ### Läsning
-* [CSS Selectors](https://css-tricks.com/css-selectors/)
+* [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
+* [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
+* 
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
@@ -29,6 +31,7 @@
 
 ## ➕ Övrigt
 * [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
+* [whatunit.com](https://whatunit.com/)
 
 ## 📑 Lektionsrepon
 
