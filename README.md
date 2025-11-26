@@ -30,7 +30,7 @@
 ## 🖥️ Slides
 
 ## ➕ Övrigt
-* [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
+* [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX) Alternativ: [Tailwinds reset](https://tailwindcss.com/docs/preflight), [Josh W Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 * [whatunit.com](https://whatunit.com/)
 
 ## 📑 Lektionsrepon
