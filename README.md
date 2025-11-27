@@ -26,6 +26,7 @@
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
 * [BEM.info](https://en.bem.info/methodology/css/)
 * [CUBE CSS](https://cube.fyi/)
+* [Relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Using_relative_colors)
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
@@ -41,7 +42,7 @@
 * **Måndag** (Robert) - **CSS reset, varibler, typografi, enheter** 
 * **Tisdag** (Robert) - **Clean code + CSS Selectors & Combinators:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors/combinators (tag, id, class, >, *, +, ~, [attr])
 * **Onsdag** (Linus) -  **Selectors - CSS Pseudo-Classes:** nth, first, has, is, where, not, hover/active/focus-visible
-* **Torsdag** (Linus) - **Färger och färgsystem**
+* **Torsdag** (Linus) - **Färger och färgsystem** rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, ev color-mix
 * **Fredag** (Peter) - **Code review:** Implementering av Clean code, och annat från veckan
 
 
