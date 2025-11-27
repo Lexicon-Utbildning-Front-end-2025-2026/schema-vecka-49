@@ -43,7 +43,7 @@
 * **Måndag** (Robert) - **CSS reset, varibler, typografi, enheter** 
 * **Tisdag** (Robert) - **Clean code + CSS Selectors & Combinators:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors/combinators (tag, id, class, >, *, +, ~, [attr])
 * **Onsdag** (Linus) -  **Selectors - CSS Pseudo-Classes:** nth, first, has, is, where, not, hover/active/focus-visible
-* **Torsdag** (Linus) - **Färger och färgsystem** rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, ev color-mix
+* **Torsdag** (Linus) - **Färger och färgsystem** rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, relative colors, ev color-mix
 * **Fredag** (Peter) - **Code review:** Implementering av Clean code, och annat från veckan
 
 
