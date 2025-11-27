@@ -26,6 +26,7 @@
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
 * [BEM.info](https://en.bem.info/methodology/css/)
 * [CUBE CSS](https://cube.fyi/)
+* [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors)
 * [Relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Using_relative_colors)
 
 ## 🛠️ Övningar
