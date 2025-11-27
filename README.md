@@ -20,6 +20,8 @@
 * [(Pluralsight) Clean Code and Accessibility](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
 
 ### Läsning
+* [CSS Selectors](https://www.w3schools.com/CSSref/css_selectors.php)
+* [CSS Combinators](https://www.w3schools.com/CSSref/css_ref_combinators.php)
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
 * [BEM.info](https://en.bem.info/methodology/css/)
@@ -37,8 +39,8 @@
 ## 📑 Lektionsrepon
 
 * **Måndag** (Robert) - **CSS reset, varibler, typografi, enheter** 
-* **Tisdag** (Robert) - **Clean code + Selectors del 1:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors del 1 (tag, id, class, >, *, +, &, [attr])
-* **Onsdag** (Linus) -  **Selectors del 2:** nth, first, has, is, where, not, hover/active/focus-visible
+* **Tisdag** (Robert) - **Clean code + CSS Selectors & Combinators:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors/combinators (tag, id, class, >, *, +, ~, [attr])
+* **Onsdag** (Linus) -  **Selectors - CSS Pseudo-Classes:** nth, first, has, is, where, not, hover/active/focus-visible
 * **Torsdag** (Linus) - **Färger och färgsystem**
 * **Fredag** (Peter) - **Code review:** Implementering av Clean code, och annat från veckan
 
