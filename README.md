@@ -22,7 +22,8 @@
 ### Läsning
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
-* 
+* [BEM.info](https://en.bem.info/methodology/css/)
+* [CUBE CSS](https://cube.fyi/)
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
