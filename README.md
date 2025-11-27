@@ -35,11 +35,11 @@
 
 ## 📑 Lektionsrepon
 
-* **Måndag** () - **CSS reset, varibler, typografi, enheter** 
-* **Tisdag** () - **Nestad CSS, selectors, hover/active/focus-visible**
-* **Onsdag** () - **Färger och färgsystem**
-* **Torsdag** (Robert) - **Clean code:** Från BEM till Cube och Utility first/Tailwind CSS
-* **Fredag** - **Code review** 
+* **Måndag** (Robert) - **CSS reset, varibler, typografi, enheter** 
+* **Tisdag** (Robert) - **Clean code + Selectors del 1:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors del 1 (tag, id, class, >, *, +, ?, [attr]
+* **Onsdag** (Linus) -  **Selectors del 2:** nth, first, has, is, where, not, hover/active/focus-visible
+* **Torsdag** (Linus) - **Färger och färgsystem**
+* **Fredag** (Peter) - **Code review:** Implementering av Clean code, och annat från veckan
 
 
 
