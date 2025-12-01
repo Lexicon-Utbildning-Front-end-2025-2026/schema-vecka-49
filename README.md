@@ -29,6 +29,8 @@
 * [CUBE CSS](https://cube.fyi/)
 * [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors)
 * [Relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Using_relative_colors)
+* [Introduction to the CSS cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Introduction)
+* [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
