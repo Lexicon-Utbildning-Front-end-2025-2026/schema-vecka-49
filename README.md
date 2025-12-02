@@ -31,7 +31,7 @@
 * [Relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Using_relative_colors)
 * [Introduction to the CSS cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Introduction)
 * [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
-* [(css-tricks) Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [(css-tricks) Specifics on CSS Specificity (frivillig)](https://css-tricks.com/specifics-on-css-specificity/)
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
