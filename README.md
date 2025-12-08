@@ -18,6 +18,7 @@
 * [(Pluralsight) Clean Code and Accessibility](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
 * [(YT Kevin Powell) CSS Units](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [(YT Kevin Powell) is(), where(), has() explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
+* [(YT Kevin Powell) Nesting CSS](https://www.youtube.com/watch?v=h4Xp1QgNkhU)
 
 
 ### Läsning
