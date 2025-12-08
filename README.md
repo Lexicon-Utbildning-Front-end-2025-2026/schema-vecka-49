@@ -40,6 +40,8 @@
 ## 🖥️ Slides
 * [CSS Selectors](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/EX1DFf8h14ZClPVWFK5M5h8BboGIdUiiw5r65iBcmI5jKw?e=LoJQ1v)
 
+* [CSS Färger](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQATOil0jHb3R5Id8-KRpY-IAfuXAqZm_SoQCCWLHvAvF4o?e=Z1ubHR)
+
 ## ➕ Övrigt
 * [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX) Alternativ: [Tailwinds reset](https://tailwindcss.com/docs/preflight), [Josh W Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 * [whatunit.com](https://whatunit.com/)
