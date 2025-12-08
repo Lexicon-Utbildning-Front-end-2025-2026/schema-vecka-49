@@ -47,7 +47,7 @@
 ## 📑 Lektionsrepon
 
 * **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-01-dec)** (Robert) - **CSS reset, varibler, typografi, enheter** 
-* **Tisdag** (Robert) - **Clean code + CSS Selectors & Combinators:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors/combinators (tag, id, class, >, *, +, ~, [attr])
+* **[Tisdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-01-dec/tree/lektion-02-dec)** (Robert) - **Clean code + CSS Selectors & Combinators:** Från BEM till Cube och Utility first/Tailwind CSS, Nestad CSS, selectors/combinators (tag, id, class, >, *, +, ~, [attr])
 * **Onsdag** (Linus) -  **Selectors - CSS Pseudo-Classes:** nth, first, has, is, where, not, hover/active/focus-visible
 * **Torsdag** (Linus) - **Färger och färgsystem** rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, relative colors, ev color-mix
 * **Fredag** (Peter) - **Code review:** Implementering av Clean code, och annat från veckan
