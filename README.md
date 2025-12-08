@@ -35,6 +35,7 @@
 
 ## 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
+* [Color Cards övning](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/Exercise-Color-Cards)
 
 ## 🖥️ Slides
 * [CSS Selectors](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/EX1DFf8h14ZClPVWFK5M5h8BboGIdUiiw5r65iBcmI5jKw?e=LoJQ1v)
